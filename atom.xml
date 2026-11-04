@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Terria</rights>
   <subtitle>技术博客</subtitle>
   <title>Terria's Blog</title>
-  <updated>2026-11-04T12:06:27.320Z</updated>
+  <updated>2026-11-04T14:20:09.019Z</updated>
+  <entry>
+    <author>
+      <name>Terria</name>
+    </author>
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <content>
+      <![CDATA[<h1 id="这是一个个人博客"><a href="#这是一个个人博客" class="headerlink" title="这是一个个人博客"></a>这是一个个人博客</h1><p>这是<em>一段</em> <strong>文字</strong></p><hr><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line"><span class="keyword">import</span> random</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br><span class="line">```</span><br></pre></td></tr></table></figure><p>如你所见，这是一段 <code>python</code> 示例</p><hr><blockquote><p>人生苦短，我用Python</p></blockquote>]]>
+    </content>
+    <id>http://example.com/2026/11/04/testing/</id>
+    <link href="http://example.com/2026/11/04/testing/"/>
+    <published>2026-11-04T13:56:48.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="这是一个个人博客"><a href="#这是一个个人博客" class="headerlink" title="这是一个个人博客"></a>这是一个个人博客</h1><p>这是<em>一段</em> <strong>文字</strong></p>
+<hr>
+<fi]]>
+    </summary>
+    <title>测试文章</title>
+    <updated>2026-11-04T14:20:09.019Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Terria</name>
