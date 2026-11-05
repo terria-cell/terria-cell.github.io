@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试文章</title>
-    <url>/2026/11/04/testing/</url>
-    <content><![CDATA[<h1 id="这是一个个人博客"><a href="#这是一个个人博客" class="headerlink" title="这是一个个人博客"></a>这是一个个人博客</h1><p>这是<em>一段</em> <strong>文字</strong></p>
-<hr>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line"><span class="keyword">import</span> random</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
-<p>如你所见，这是一段 <code>python</code> 示例</p>
-<hr>
-<blockquote>
-<p>人生苦短，我用Python</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2026/11/04/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>十年OI一场空</title>
     <url>/2026/11/05/%E5%8D%81%E5%B9%B4OI%E4%B8%80%E5%9C%BA%E7%A9%BA/</url>
     <content><![CDATA[<h1 id="十年OI一场空"><a href="#十年OI一场空" class="headerlink" title="十年OI一场空"></a>十年OI一场空</h1><h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>如各位所见，我是一个OIer——奖没得过一个，浪费三年青春的那种。所以这篇文章也绝不是信竞大佬退役书——毕竟我既没有发在洛谷上，也没有在比赛里写行 <code>AFO, FUCKCCF</code> 的注释。不过是想了许久，写了一点点杂乱的东西</p>
